@@ -2,7 +2,7 @@
 Code projet Hakacton 2019 Vivatech | challenge EDHEC business school
 
 Pour démarrer l'api:
-- 1: Importer Base de donnée (Hacakton.sql)
+- 1: Importer Base de donnée (Hackaton.sql)
 - 2: installer les dépendances: "npm i"
 - 3: lancer l'api: "npm run start"
 
